@@ -4,7 +4,7 @@ public class Tank {
         Position+= hod;
     }
     void printPosition(){
-        System.out.println("The Tank is at " + Position + " now");
+        System.out.println("The Tank is at1 " + Position + " now");
     }
     void goBackward(int hod){
         Position-= hod;
